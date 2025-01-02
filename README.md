@@ -1,13 +1,13 @@
 ![logo](https://github.com/AayushChitransh11/AayushChitransh11/blob/main/Black%20Green%20Modern%20Professional%20Software%20Engineer%20LinkedIn%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm Aayush Chitransh</h1>
+<h1 align="center">Hi, I'm Aayush Chitransh</h1>
 <h3 align="center">🎓 CS at NJIT 💻 Passionate about tech 🤝 Open to collaboration</h3>
 <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" align="right" width="250px" height="250px" alt="coding gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushchitransh11&label=Profile%20views&color=0e75b6&style=flat" alt="aayushchitransh11" /> </p>
 
-- 📫 How to reach me **connect.aayushchitransh@gmail.com**
+- 📫 Reach me at: **connect.aayushchitransh@gmail.com**
 
-- ⚡ Fun fact **As a coder, I solve puzzles with syntax and logic!**
+<!-- - ⚡ Fun fact **As a coder, I solve puzzles with syntax and logic!** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
